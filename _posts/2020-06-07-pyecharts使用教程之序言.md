@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      pyecharts使用教程:序言            # 标题 
+title:      pyecharts使用教程之序言            # 标题 
 subtitle:   Hello World, Hello Blog #副标题
 date:       2020-06-07             # 时间
 author:     Jacky                     # 作者
@@ -11,7 +11,7 @@ tags:                               #标签
     - 序言
 ---
 
-## pyecharts使用教程:序言
+## pyecharts使用教程之序言
 
 
 > 作者:Jacky
