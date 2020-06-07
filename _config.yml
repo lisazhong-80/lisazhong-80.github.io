@@ -1,28 +1,28 @@
 # Site settings
-title: JF Blog
-SEOTitle: Jacky的博客 | Jf Blog
+title: Lisa Blog
+SEOTitle: Lisa的博客 | Lisa Blog
 header-img: img/post-bg-desk.jpg
-email: jackyfeng201314@163.com
-description: "If you think you can, you can."
-keyword: "JF, Jf Blog, Jacky的博客, Jackyfeng, Python, HTML"
-url: "http://jackyfzh.github.io"          # your host, for absolute URL
+email: 935491751@qq.com
+description: "Just do it ,as you think."
+keyword: "Lisa, Lisa Blog, Lisa的博客, Lisazhong, cook, cake "
+url: "https://lisazhong-80.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jackyfzh/jackyfzh.github.io.git" # you code repository
+github_repo: "https://github.com/lisazhong-80/lisazhong-80.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "The future will be better!"
+sidebar-about-description: "go on,and on!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     7282695464
-zhihu_username:     jacky-72-43-18
-github_username:    jackyfzh
+# weibo_username:     7282695464
+# zhihu_username:     jacky-72-43-18
+github_username:    lisazhong-80
 # facebook_username:  baiying.qiu.7
-jianshu_username:   98e552ece455
+# jianshu_username:   98e552ece455
 # twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 606d2890f1b813c27bb4                           #生成的clientID
-  clientSecret: 221c9a6cbb1ba4b671c8ed20b2a1ebeb404ef687   #生成的clientSecret
-  repo: jackyfzh.github.io    #仓库名称
-  owner: jackyfzh    #github用户名
-  admin: jackyfzh
+  clientID: 62768cb44a965057dd40                           #生成的clientID
+  clientSecret: d59a9a58a037f8380e7b1ccef353a1f0a11916ca   #生成的clientSecret
+  repo: lisazhong-80.github.io    #仓库名称
+  owner: lisazhong-80   #github用户名
+  admin: lisazhong-80
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b732567805e1a29cf887b2f315641af8
+ba_track_id: 850994d8cb21df20225e90f9f2e068e7
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "杜塞的个人网站",
-        href: "https://www.dusaiphoto.com"
+        title: "Jacky的博客",
+        href: "https://jackyfzh.github.io"
     },{
-        title: "Frost's blog",
-        href: "https://frostming.com"
+        title: "柏荧的博客 | BY Blog",
+        href: "http://qiubaiying.vip/"
     }
 ]
