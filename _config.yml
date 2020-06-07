@@ -17,12 +17,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
+RSS: true
+weibo_username:     7282695464
 zhihu_username:     jacky-72-43-18
 github_username:    jackyfzh
 # facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
+jianshu_username:   98e552ece455
 # twitter_username:   qiubaiying
 
 
@@ -102,7 +102,7 @@ friends: [
         title: "杜塞的个人网站",
         href: "https://www.dusaiphoto.com"
     },{
-        title: "Frost Ming的个人网站",
+        title: "Frost's blog",
         href: "https://frostming.com"
     }
 ]
